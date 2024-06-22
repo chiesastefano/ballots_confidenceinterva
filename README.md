@@ -1,1 +1,2 @@
-# ballots_confidenceinterval
+# Confidence Interval of the percentage of votes for a party turing the ballot counting
+This code calculates the confidence interval of the percentage of votes for a party during the ballot counting. The code uses the percentage of votes for the party, the number of counted votes, and the total number of votes. The code also assumes the maximum possible sample variance. The confidence interval is adjusted for the percentage of votes counted.
